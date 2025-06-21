@@ -2,7 +2,7 @@
 	<body bgcolor=skyblue>
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for SevenMentor 2025</h1>
+    <h1>New user Register for SevenMentor 2026</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
